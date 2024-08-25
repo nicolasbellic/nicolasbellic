@@ -4,13 +4,6 @@
     <h2>I'm Web-developer from Vladivostok</h2>
   </div>
   <div align="center">
-    <H3>🌍  I'm based in Phuket🇹🇭</H3>
-    <h3>🖥️  See my portfolio at <a href="http://https://nicolasbellic.github.io/Portfolio/">GitHub</a></h3>
-    <h3>✉️  You can contact me at <a href="t.me/hitachi315">Telegram</a></h3>
-    <h3>🚀  I'm currently working on <a href="http://marussiatravel.com">Marusya Travel Phuket</a></h3>
-  </div>
-
-  <div align="center">
     <h2>My skills</h2>
   </div>
 
