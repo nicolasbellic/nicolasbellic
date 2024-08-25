@@ -4,7 +4,7 @@
     <h2>I'm Web-developer from Vladivostok</h2>
   </div>
   <div align="center">
-    <h2>My skills</h2>
+ 
   </div>
 
   <p align="center">
