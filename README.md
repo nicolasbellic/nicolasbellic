@@ -2,7 +2,7 @@
   <h1>Hi, my name is Nikita</h1>
   <h2>I'm Web-developer from Vladivostok</h2>
 </div>
-<div align="center">
+<div align="left">
 <H3>🌍  I'm based in Phuket🇹🇭</H3>
 <h3>🖥️  See my portfolio at <a href="http://https://nicolasbellic.github.io/Portfolio/">GitHub</a></h3>
 <h3>✉️  You can contact me at <a href="t.me/hitachi315">Telegram</a></h3>
