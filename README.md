@@ -3,10 +3,10 @@
   <h2>I'm Web-developer from Vladivostok</h2>
 </div>
 <div align="center">
-* 🌍  I'm based in Phuket🇹🇭
-* 🖥️  See my portfolio at [GitHub](http://https://nicolasbellic.github.io/Portfolio/)
-* ✉️  You can contact me at [t.me/hitachi315](mailto:t.me/hitachi315)
-* 🚀  I'm currently working on [Marusya Travel Phuket](http://marussiatravel.com)
+<H3>🌍  I'm based in Phuket🇹🇭</H3><br>
+<h3>🖥️  See my portfolio at [GitHub](http://https://nicolasbellic.github.io/Portfolio/)</h3><br>
+<h3>✉️  You can contact me at [t.me/hitachi315](mailto:t.me/hitachi315)</h3><br>
+<h3>🚀  I'm currently working on [Marusya Travel Phuket](http://marussiatravel.com)</h3>
 </div>
 
 <div align="center">
